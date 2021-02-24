@@ -2,6 +2,6 @@ plugins:
   pylint:
     enabled: true
     channel: beta
-    #django_settings_module: foo.settings
+    django_settings_module: foo.settings
     plugins:
       - django
